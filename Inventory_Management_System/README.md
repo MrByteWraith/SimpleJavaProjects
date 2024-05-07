@@ -7,7 +7,7 @@ finding the cheapest device, sorting devices by price, calculating the total inv
 
 ## Features
 
-	**Add Device:** Users can add a new device to the inventory by providing details such as category, name, price, and quantity.
+	**Add Device: Users can add a new device to the inventory by providing details such as category, name, price, and quantity.
 	**Remove Device:** Devices can be removed from the inventory by specifying their name.
 	**Update Device Details:** Users can update the price and quantity of a device in the inventory.
 	**Display Devices:** Lists all devices in the inventory along with their details.
